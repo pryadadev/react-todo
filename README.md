@@ -1,1 +1,1 @@
-# Todo App by Mikhail Pryada
+# Training todo project in React
