@@ -1,0 +1,8 @@
+.top-panel {
+  gap: 0.5rem;
+}
+
+.search-input {
+  width: auto;
+  flex-grow: 1;
+}
